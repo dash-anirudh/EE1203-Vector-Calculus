@@ -1,5 +1,8 @@
 # EE1203-Vector-Calculus
-This repository serves as a comprehensive collection of assignments, quizzes, exams and their respective solutions for the course **EE1203: Vector Calculus**, offered during the Spring Semester(Jan-May, 2024) at IITH. Course Instructor: [Dr. Seshadri Sravan Kumar V](https://www.iith.ac.in/ee/seshadri/)
+This repository serves as a comprehensive collection of assignments, quizzes, exams and their respective solutions for the course **EE1203: Vector Calculus**, offered during the Spring Semester(Jan-May, 2024) at IITH. Course Instructors: \
+[Dr. Seshadri Sravan Kumar V](https://www.iith.ac.in/ee/seshadri/) \
+[Dr. Sumohana S. Channappayya](https://people.iith.ac.in/sumohana/) \
+[Dr. Aditya T Siripuram](https://www.iith.ac.in/ee/staditya/) 
 
 ## Course Overview
 1. **Vectors and Coordinate Systems**: Vectors and Operations on Vectors, Dot Product and Cross Product, Lines, Planes and Surfaces, Curvilinear Coordinates, and Functions of multiple variables.
